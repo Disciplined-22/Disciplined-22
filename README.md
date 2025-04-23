@@ -14,16 +14,6 @@ Love building web applications and dApps, and contributing to the world of tech.
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=white)
 
-#### 📘 Core Concepts:
-- Mathematics, Statistics, Data Structures and Algorithms (DSA)
-
-#### 🤖 Machine Learning & Data Science:
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-black?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=flat-square)
-
 #### 🌐 Web Development & Full Stack:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MERN Stack](https://img.shields.io/badge/MERN-3C873A?style=flat-square)
@@ -43,6 +33,16 @@ Love building web applications and dApps, and contributing to the world of tech.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+#### 📘 Core Concepts:
+- Mathematics, Statistics, Data Structures and Algorithms (DSA)
+
+#### 🤖 Machine Learning & Data Science:
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-black?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=flat-square)
 
 #### 💾 Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
