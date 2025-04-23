@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there 👋, I'm Siddharth
 
-<!--
-**Disciplined-22/Disciplined-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Solana Smart Contract Engineer | ⚽ Footballer | 🎥 Content Creator  
+Passionate about blockchain, sports, and building wild content.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack:
+![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust)
+![Solana](https://img.shields.io/badge/Solana-000000?style=flat-square&logo=solana)
+
+### 🛠 Projects
+- 🚀 [Meme Coin Launcher](https://github.com/your-repo) – Solana-based token launcher.
+- 📈 [Bonding Curve Playground](https://github.com/your-repo) – Learn how token economics works.
+
+---
+
+### 📊 GitHub Stats:
+![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Connect with me:
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- YouTube: [IntrovertWhiz](https://youtube.com/yourchannel)
