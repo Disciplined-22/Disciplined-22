@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Siddharth
+### Hi there 👋, I'm Siddharth R Norajannavar
 
 💻 Full Stack Engineer | 🔗 Blockchain Engineer | 🌞 Solana Enthusiast  
 Love building web applications and dApps, and contributing to the world of tech.
